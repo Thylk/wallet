@@ -5,5 +5,5 @@ Par exemple: si la date de la distribution est le 01/01/2020, la fin de la distr
 
 De même, si la distribution commence le 15/01/2020, elle se terminera également le 28/02/2021.
 
-- Mettre en place la fonction permettant à l'entreprise de distribuer des chèques repas.
+- Mettre en place la fonction permettant à l'company de distribuer des chèques repas.
 - Utilisez cette fonction pour générer le résultat attendu dans le fichier output-expected.json.

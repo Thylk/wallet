@@ -1,0 +1,12 @@
+{
+  "userList" : [ {
+    "name" : "Arthur",
+    "amount" : 1000
+  }, {
+    "name" : "Robert",
+    "amount" : 1000
+  }, {
+    "name" : "Gérard",
+    "amount" : 1000
+  } ]
+}
